@@ -1,0 +1,5 @@
+# Ignore everything in Solid_principles
+Solid_principles/*
+
+# But don't ignore the src folder
+!Solid_principles/src
